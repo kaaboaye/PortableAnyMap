@@ -83,18 +83,3 @@ void print_pgm(Pgm *img, FILE *file) {
   // Close the file
   fclose(file);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
